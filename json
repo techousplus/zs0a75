@@ -1,0 +1,237 @@
+{
+    "station":
+    [
+     {
+     "name": "Pulse EDM",
+     "streamURL": "http://pulseedm.cdnstream1.com:8124/1373_128.m3u",
+     "imageURL": "icons8-radio-480-2.png",
+     "desc": "Elektroniğin Sesi",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Pal Station",
+     "streamURL": "http://shoutcast.radyogrup.com:1020/;",
+     "imageURL": "palstation.png",
+     "desc": "Yabancı Hitler Burada",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+         "name": "Pal FM",
+         "streamURL": "http://shoutcast.radyogrup.com:1030/;stream/1",
+         "imageURL": "Pal_FM.png",
+         "imageURLdark": "Pal_FM.png",
+         "desc": "Pal FM",
+         "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Pal Nostalji",
+     "streamURL": "http://shoutcast.radyogrup.com:1010/listen.pls?sid=1",
+     "imageURL": "PALnostalji_LOGOkoyu.3pdf-1-transparan.png",
+     "desc": "Pal Nostalji",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Fenomen",
+     "streamURL": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio",
+     "imageURL": "rfenomen.png",
+     "desc": "Radyo Fenomen",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Fenomen POP",
+     "streamURL": "http://fenomenoriental.listenfenomen.com/fenomenpop/128/icecast.audio",
+     "imageURL": "logo25.png",
+     "desc": "POP'un kalbi burada atıyor",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Fenomen Türk",
+     "streamURL": "http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio",
+     "imageURL": "fenomenturk.png",
+     "desc": "Fenomen Türk",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+         "name": "Süper FM",
+         "streamURL": "https://17753.live.streamtheworld.com/SUPER_FM128AAC.aac",
+         "imageURL": "super-fm-logo.png",
+         "desc": "Süper FM",
+         "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Joy FM",
+     "streamURL": "https://17773.live.streamtheworld.com/JOY_FM.mp3",
+     "imageURL": "joyfmlogo.png",
+     "desc": "Joy FM",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "JoyTurk",
+     "streamURL": "http://17753.live.streamtheworld.com/JOY_TURK.mp3",
+     "imageURL": "JoyTurk_logosu.png",
+     "desc": "Türkçe Slow müzik severlerin tercihi",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Metro FM",
+     "streamURL": "http://17753.live.streamtheworld.com/METRO_FM.mp3",
+     "imageURL": "Metro_FM.png",
+     "desc": "Metro FM",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Virgin Radio",
+     "streamURL": "https://17773.live.streamtheworld.com/VIRGIN_RADIOAAC.aac",
+     "imageURL": "virginradio.png",
+     "desc": "Virgin Radio",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+         "name": "Power FM",
+         "streamURL": "http://powerfm.listenpowerapp.com/powerfm/abr/playlist.m3u8",
+         "imageURL": "powerFM.png",
+         "desc": "Power FM",
+         "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+         "name": "Power Pop",
+         "streamURL": "http://powerpop.listenpowerapp.com/powerpop/abr/playlist.m3u8",
+         "imageURL": "powerPop.png",
+         "desc": "Power Pop",
+         "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Number One",
+     "streamURL": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8",
+     "imageURL": "N1_FM-1.png",
+     "desc": "Number One",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Number One Türk",
+     "streamURL": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8",
+     "imageURL": "N1_TurkFM-1.png",
+     "desc": "Number One Türk",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Kral FM",
+     "streamURL": "http://kralwmp.radyotvonline.com/;stream.mp3",
+     "imageURL": "kral-fm.png",
+     "desc": "Kral FM",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Kral Pop Radyo",
+     "streamURL": "http://46.20.3.201/listen.pls",
+     "imageURL": "kralpop.png",
+     "desc": "Kral Pop",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+         "name": "TRT FM",
+         "streamURL": "https://radio-trtfm.live.trt.com.tr/master_128.m3u8",
+         "imageURL": "3b0e5f1804334850951d19c27fa42660.png",
+         "desc": "TRT",
+         "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+         "name": "TRT Radyo 1",
+         "streamURL": "https://radio-trtradyo1.live.trt.com.tr/master_128.m3u8",
+         "imageURL": "0a8c7e0256d44c98a27beaab8e4648fa.png",
+         "desc": "TRT Radyo 1",
+         "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+         "name": "TRT Radyo 3",
+         "streamURL": "https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8",
+         "imageURL": "TRT_Radyo_3.png",
+         "desc": "TRT Radyo 3",
+         "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+         "name": "TRT Türkü",
+         "streamURL": "https://radio-trtturku.live.trt.com.tr/master_128.m3u8",
+         "imageURL": "trt-667x214.png",
+         "desc": "TRT Türkü",
+         "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Radio Voyage",
+     "streamURL": "http://46.20.3.216/listen.pls",
+     "imageURL": "voyagefmradyo.png",
+     "desc": "Radio Voyage",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "CNN Türk Radyo",
+     "streamURL": "http://media.netd.com.tr/S2/HLS_LIVE/cnnradyo/index.m3u8",
+     "imageURL": "cnn-turk-canli.png",
+     "desc": "CNN Türk",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "HaberTürk Radyo",
+     "streamURL": "https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8",
+     "imageURL": "Habertürk_Radyo_logosu.png",
+     "desc": "Habertürk",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Lounge FM",
+     "streamURL": "https://radio.mixnews.lv/995",
+     "imageURL": "loungefm.png",
+     "desc": "Lounge FM",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Best FM",
+     "streamURL": "https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8",
+     "imageURL": "bestfm.png",
+     "desc": "Best FM",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Radyo Home",
+     "streamURL": "http://37.247.98.8/stream/21/",
+     "imageURL": "rhome.png",
+     "desc": "Pop Home",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Yön Radyo",
+     "streamURL": "http://yonradyo.radyolarburada.com:8020/;",
+     "imageURL": "Yön_Radyo_logosu.png",
+     "desc": "Yön Radyo",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Radyo D",
+     "streamURL": "https://radyo.duhnet.tv/radyod",
+     "imageURL": "radyo-d.png",
+     "desc": "Kanal D Radyosu",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Sky Radyo",
+     "streamURL": "http://skyradyo.org:8300/;",
+     "imageURL": "sky-radyo.png",
+     "desc": "Sky Radyo",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "NTV Radyo",
+     "streamURL": "http://ntvrdwmp.radyotvonline.com/;",
+     "imageURL": "ntvradyo.png",
+     "desc": "NTV Radyo",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     },
+     {
+     "name": "Electro Radio",
+     "streamURL": "http://stream.electroradio.fm/192k",
+     "imageURL": "",
+     "desc": "Electro Radio",
+     "longDesc": "AÇIKLAMALAR BETADA YOK"
+     }
+    ]
+}

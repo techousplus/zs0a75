@@ -213,10 +213,10 @@
      "longDesc": "AÇIKLAMALAR BETADA YOK"
      },
      {
-     "name": "Sky Radyo",
-     "streamURL": "http://skyradyo.org:8300/;",
-     "imageURL": "sky-radyo.png",
-     "desc": "Sky Radyo",
+     "name": "Dream Türk Radyo",
+     "streamURL": "https://radyo.duhnet.tv/dreamturk",
+     "imageURL": "dreamturk.png",
+     "desc": "Dream Türk",
      "longDesc": "AÇIKLAMALAR BETADA YOK"
      },
      {

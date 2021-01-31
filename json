@@ -200,7 +200,7 @@
      },
      {
      "name": "Yön Radyo",
-     "streamURL": "http://yonradyo.radyolarburada.com:8020/;",
+     "streamURL": "https://stream.radyolarburada.com/radio/8020/yonradyo",
      "imageURL": "Yön_Radyo_logosu.png",
      "desc": "Yön Radyo",
      "longDesc": "AÇIKLAMALAR BETADA YOK"

@@ -179,7 +179,7 @@
      },
      {
      "name": "Lounge FM",
-     "streamURL": "https://radio.mixnews.lv/995",
+     "streamURL": "https://sc.vargonen.net:5003/;",
      "imageURL": "loungefm.png",
      "desc": "Lounge FM",
      "longDesc": " "

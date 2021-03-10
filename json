@@ -165,7 +165,7 @@
      },
      {
      "name": "CNN Türk Radyo",
-     "streamURL": "https://radyo.duhnet.tv/cnnturk",
+     "streamURL": "https://radyo.duhnet.tv/cnnturk?/;stream.mp3",
      "imageURL": "cnn-turk-canli.png",
      "desc": "CNN Türk",
      "longDesc": " "
@@ -207,14 +207,14 @@
      },
      {
      "name": "Radyo D",
-     "streamURL": "https://radyo.duhnet.tv/radyod",
+     "streamURL": "https://radyo.duhnet.tv/radyod?/;stream.mp3",
      "imageURL": "radyo-d.png",
      "desc": "Kanal D Radyosu",
      "longDesc": " "
      },
      {
      "name": "Dream Türk Radyo",
-     "streamURL": "https://radyo.duhnet.tv/dreamturk",
+     "streamURL": "https://radyo.duhnet.tv/dreamturk?/;stream.mp3",
      "imageURL": "dreamturk.png",
      "desc": "Dream Türk",
      "longDesc": " "
